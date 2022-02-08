@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# Minecraft version
-VERSION=1.18
-
 set -e
 root=$PWD
 mkdir -p mc
@@ -95,7 +92,5 @@ touch logs/latest.log
 # Start minecraft
 #PATH=$PWD/jre/bin:$PATH
 echo "Running server..."
-#java -version
-#java -Xmx1G -Xms1G -jar server.jar nogui
 node ./../index.js
 echo "Exit code $?"
