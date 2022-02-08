@@ -5,7 +5,7 @@ This project was inspired by :<br>
 - https://replit.com/@Scoder12/replit-minecraft
 
 Dependencies :
-- <a src="https://github.com/PrismarineJS/flying-squid">flying-squid</a>
+- flying-squid https://github.com/PrismarineJS/flying-squid
 
 ---
 It will load ngrok to use it to get a ip<br>
@@ -17,4 +17,5 @@ Then host a mc server with this ip
 >I can not promise you that it will work normally.
 
 >This project was made in replit.
+Link: https://replit.com/@sakuraEINFACH/minecraft4
 
